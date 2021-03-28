@@ -5,6 +5,8 @@ Dalam ilmu statistik, PCA termasuk ke dalam bahasan **Multivariate Analysis" sed
 Analisis Komponen Utama (PCA) merupakan teknik mereduksi data multivariat (banyak variabel) untuk mengubah (transformasi) suatu matriks data awal menjadi suatu set kombinasi linier yang lebih sedikit akan tetapi menyerap sebagian besar jumlah varians dari data awal (Supranto, 2010).
 
 ## Model matematis
+PC1, PC2 dst adalah kombinasi linier dimana tidak ada korelasi yang kuat antara antar PC.
+
 ![](images/pca_model.PNG)
 
 ## Penentuan Banyaknya Component
