@@ -16,6 +16,9 @@ Beberapa teknik reduksi dimensi yang bisa digunakan adalah
 ## Feature Selection vs Dimentiooality Reduction
 Keduanya memiliki fungsi yang sama untuk mengatasi dimensi data yang tinggi. Perbedaanya adalah **Dimentionality Reduction** mengatasi dimensi data yang tinggi dengan cara membentuk variabel baru, sedangkan **Feature Selection** tidak membentuk variabel baru namun hanya meng-eliminasi beberapa variabel saja.
 
+## Type
+![](ReduksiDimensi.PNG)
+
 
 ## Refference
 - https://towardsdatascience.com/feature-selection-and-dimensionality-reduction-f488d1a035de
